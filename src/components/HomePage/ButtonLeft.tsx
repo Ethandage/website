@@ -1,5 +1,5 @@
 import { Link } from 'react-scroll';
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
 
 enum Color {
     None = "#00000000",
